@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-.slide-1 {
+/* .slide-1 {
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/tembakau.jpg);
     background-size: cover;
 }
@@ -17,7 +17,7 @@
 .slide-3 {
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/tembakau.jpg);
     background-size:cover;
-}
+} */
 
 section {
     width: 100%;
