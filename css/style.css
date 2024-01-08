@@ -24,5 +24,16 @@ section {
     height: 100vh;
 }
 
+.footer {
+    padding-top: 10px;
+    background: white;
+    text-align: center;
+  }
+  
+  .copyright p {
+    font-size: 15px;
+    font-weight: 400px;
+    color: black;
+  }
 
         
